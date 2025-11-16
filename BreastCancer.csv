@@ -1,0 +1,20 @@
+age,gender,bp,cholsterol,BMI,Excerise level,Smoking,sugarlevel,familyhistory,symptoms,diagnosis,medication
+35,M,101,100,8.5,High ,yes,high,yes,no,yes,no
+45,F,120,90,16.5,low,no,low,yes,yes,yes,yes
+32,M,140,120,20.5,High ,yes,high,no,no,yes,no
+42,M,156,120,27.16666667,High ,no,low,yes,yes,no,yes
+56,F,160,140,33.16666667,low,yes,high,yes,no,yes,no
+25,M,181,147,39.16666667,High ,no,low,no,yes,no,yes
+42,F,197,158,45.16666667,High ,yes,high,yes,no,yes,no
+21,M,212,169,51.16666667,low,no,low,yes,yes,yes,yes
+30,M,101,100,8.5,High ,yes,high,yes,no,yes,no
+29,F,120,90,16.5,low,no,low,yes,yes,yes,yes
+27,M,140,120,20.5,High ,yes,high,no,no,no,no
+26,M,156,120,27.16666667,High ,no,low,yes,yes,yes,yes
+25,F,160,140,33.16666667,low,yes,high,yes,no,no,no
+23,M,181,147,39.16666667,High ,no,low,no,yes,yes,yes
+22,F,197,158,45.16666667,High ,yes,high,yes,no,yes,no
+20,M,212,169,51.16666667,low,no,low,yes,yes,yes,yes
+19,M,101,100,8.5,High ,yes,high,yes,no,yes,no
+17,F,120,90,16.5,low,no,low,yes,yes,no,yes
+16,M,140,120,20.5,High ,yes,high,no,no,yes,no
